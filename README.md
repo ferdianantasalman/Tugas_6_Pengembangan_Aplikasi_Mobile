@@ -1,16 +1,13 @@
-# pertemuan_6
+# Tugas Pertemuan 6
 
-A new Flutter project.
+Nama : Ferdi Ananta Salman
+NIM : 20210120018
+Kelas : TI-SE 1/5
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Halaman Login
+![Login](https://github.com/ferdianantasalman/Tugas_6_Pengembangan_Aplikasi_Mobile/assets/89559526/381d08ae-796d-40eb-9734-493befc949b1)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Halaman Home
+![Home](https://github.com/ferdianantasalman/Tugas_6_Pengembangan_Aplikasi_Mobile/assets/89559526/0286b3f2-3987-4536-8653-f882625fb1fc)
